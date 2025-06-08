@@ -18,8 +18,8 @@
     "data/*"
   ],
   "devDependencies": {
-    "@mdn/browser-compat-data": "^6.0.19",
-    "@webref/css": "^6.21.2",
+    "@mdn/browser-compat-data": "^6.0.21",
+    "@webref/css": "^6.22.0",
     "compute-baseline": "^0.3.1",
     "mdn-data": "^2.21.0"
   }
