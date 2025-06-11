@@ -34,10 +34,10 @@
     "@mdn/browser-compat-data": "^6.0.21",
     "@types/cheerio": "^1.0.0",
     "@types/got": "^9.6.12",
-    "@types/node": "^22.15.30",
+    "@types/node": "^24.0.0",
     "@types/turndown": "^5.0.5",
     "@types/vscode": "^1.100.0",
-    "cheerio": "1.0.0",
+    "cheerio": "1.1.0",
     "mdn-data": "^2.21.0",
     "turndown": "^7.2.0",
     "typescript": "^5.8.3"
